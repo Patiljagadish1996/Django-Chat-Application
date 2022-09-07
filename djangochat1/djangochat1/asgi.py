@@ -26,5 +26,5 @@ application = ProtocolTypeRouter({
 		URLRouter(
 			room.routing.websocket_urlpatterns
 		)
-	),
+	)
 })
